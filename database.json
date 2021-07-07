@@ -1,0 +1,52 @@
+{
+  "students": [
+    {
+      "regno": "IN13/12345/15",
+      "fname": "Gretsa",
+      "lname": "Ndisa",
+      "sname": "Rapodi",
+      "school": "School of Information Science and Technology",
+      "department": "Computing Sciences",
+      "course": "Bachelors of Information Technology",
+      "county": "Turkana",
+      "subCounty": "Turkana West",
+      "town": "Nuk"
+    },
+    {
+      "regno": "IN12/12345/18",
+      "fname": "Ben",
+      "lname": "Casson",
+      "sname": "Ntemi",
+      "school": "School of Business",
+      "department": "Accounting",
+      "course": "Bachelors of Business and Accounting",
+      "county": "Turkana",
+      "subCounty": "Turkana West",
+      "town": "Nuk"
+    }
+  ],
+  "staff": [
+    {
+      "payroll": "KSU/MS/00006/12",
+      "fname": "Britney",
+      "lname": "Nyambura",
+      "sname": "Muriithi",
+      "department": "Network Department",
+      "jobTitle": "Network Engineer",
+      "county": "Kisii",
+      "subCounty": "Kisii",
+      "town": "Kisii"
+    },
+    {
+      "payroll": "KSU/MS/00007/14",
+      "fname": "Brian",
+      "lname": "Bramuel",
+      "sname": "Ondigo",
+      "department": "Network Department",
+      "jobTitle": "Network Engineer",
+      "county": "Kisumu",
+      "subCounty": "Kisumu West",
+      "town": "Nyalenda"
+    }
+  ]
+}
